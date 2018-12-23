@@ -1,1 +1,3 @@
 # flask-section5-emailauth
+
+Modified the code to authenticate on email instead of username. Once the email item was added to the sql database and code was updated for this, I get a authentication error...
